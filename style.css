@@ -1,0 +1,19 @@
+body {
+    background-image: url(gwiazdy.jpg);
+}
+
+.paragraf{
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.692);
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.dane{
+    color: rgb(0, 0, 0);
+    background-color: rgb(19, 80, 151);
+    font-size: 30px;
+}
